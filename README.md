@@ -13,6 +13,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 6. Plot the results by using the DataFrame plot method.
 ![image](https://user-images.githubusercontent.com/62813833/227226256-275a86ee-d2ce-4e38-91f2-e9817828b278.png)
 7. Use Pandas to print the summary statistics for the precipitation data.
+
 ![image](https://user-images.githubusercontent.com/62813833/227226360-497f4b9c-eb8b-41e8-ac6d-9529e68aae98.png)
 
 #### Station Analysis
